@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f01c15f81e2eca4f847e45f78beb25d, type: 3}
+  m_Name: PiedraMorada
+  m_EditorClassIdentifier: 
+  id: 3
+  nombre: PiedraMorada
+  prefab: {fileID: 6121863384386307352, guid: 6908ddc390406b245a2bc541e79dff5b, type: 3}
+  icon: {fileID: 21300000, guid: 8ba7621c3feeccb438c69d916cf2b853, type: 3}

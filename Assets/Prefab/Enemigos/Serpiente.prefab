@@ -158,7 +158,7 @@ MonoBehaviour:
   limit:
   - {fileID: 4799191291623524598}
   - {fileID: 4799191291799211542}
-  radioDeteccion: 7.11
+  radioDeteccion: 3.26
 --- !u!61 &4799191291359695440
 BoxCollider2D:
   m_ObjectHideFlags: 0

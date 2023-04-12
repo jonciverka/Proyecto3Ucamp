@@ -326,7 +326,7 @@ MonoBehaviour:
   limit:
   - {fileID: 1738833620448228594}
   - {fileID: 1738833620355056862}
-  radioDeteccion: 3
+  radioDeteccion: 1.9
 --- !u!50 &1738833621058684528
 Rigidbody2D:
   serializedVersion: 4

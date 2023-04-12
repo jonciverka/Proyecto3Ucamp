@@ -24,8 +24,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7097838795342234188}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.18, y: -0.04, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: 0.59999985, y: -0.04, z: 0}
+  m_LocalScale: {x: 3.13, y: 1.7513, z: 1.7513}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 7743727582616822165}
@@ -205,7 +205,7 @@ MonoBehaviour:
   animator: {fileID: 0}
   vidasController: {fileID: 0}
   transformGolpe: {fileID: 6635624546219859468}
-  radioDeteccion: 0.71
+  radioDeteccion: 0.93
 --- !u!114 &4747607084114411683
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -219,3 +219,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   vidaGUI: []
+  gameOver: {fileID: 0}
